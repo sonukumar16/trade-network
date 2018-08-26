@@ -1,2 +1,2 @@
 # trade-network
-Hyperledger Fabric starter Application
+Hyperledger Fabric Starter Application
